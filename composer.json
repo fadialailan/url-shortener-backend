@@ -1,0 +1,17 @@
+{
+    "name": "fadialailan/url-shortener",
+    "description": "a basic url-shortener",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fadialailan\\UrlShortener\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fadi Alailan"
+        }
+    ],
+    "require": {}
+}
