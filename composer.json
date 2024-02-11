@@ -1,6 +1,6 @@
 {
-    "name": "fadialailan/url-shortener",
-    "description": "a basic url-shortener",
+    "name": "fadialailan/url-shortener-backend",
+    "description": "a basic url shortener backend",
     "type": "project",
     "license": "MIT",
     "autoload": {
