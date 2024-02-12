@@ -13,5 +13,7 @@
             "name": "Fadi Alailan"
         }
     ],
-    "require": {}
+    "require": {
+        "yosymfony/toml": "^1.0"
+    }
 }
